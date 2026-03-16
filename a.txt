@@ -7,3 +7,7 @@ hare
 krishna
 hare 
 rama
+radha
+sita
+laxmi
+durga
